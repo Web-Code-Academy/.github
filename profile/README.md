@@ -97,8 +97,7 @@ Buscamos empatía, liderazgo, compromiso y pasión por enseñar.
 
 ¿Tienes dudas o quieres colaborar?  
 📧 Escríbenos a: [contacto@www.webcodeacademy.com.mx](mailto:contacto@www.webcodeacademy.com.mx)  
-🌐 Sitio web: [www.webcodeacademy.com.mx](https://www.webcodeacademy.com.mx/)
-📱 Redes sociales: [@webcodeacademy0](https://www.instagram.com/webcodeacademy0/)
+🌐 Sitio web: [www.webcodeacademy.com.mx](https://www.webcodeacademy.com.mx/) 📱 Redes sociales: [@webcodeacademy0](https://www.instagram.com/webcodeacademy0/)
 
 ---
 
