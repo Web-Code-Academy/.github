@@ -82,7 +82,6 @@ Web Code Academy es un **movimiento social**. Formamos personas con conciencia s
 ## 👥 Nuestro equipo
 
 El equipo está conformado por personas apasionadas que asumen roles como:
-- Dirección Ejecutiva
 - Dirección de Operaciones
 - Dirección de Marketing
 - Dirección de Tecnología
@@ -97,7 +96,7 @@ Buscamos empatía, liderazgo, compromiso y pasión por enseñar.
 
 ¿Tienes dudas o quieres colaborar?  
 📧 Escríbenos a: [contacto@www.webcodeacademy.com.mx](mailto:contacto@www.webcodeacademy.com.mx)  
-🌐 Sitio web: [www.webcodeacademy.com.mx](https://www.webcodeacademy.com.mx/) 
+🌐 Sitio web: [www.webcodeacademy.com.mx](https://www.webcodeacademy.com.mx/) <br>
 📱 Redes sociales: [@webcodeacademy0](https://www.instagram.com/webcodeacademy0/)
 
 ---
