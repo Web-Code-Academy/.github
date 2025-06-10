@@ -5,7 +5,7 @@
 ![Web Code Academy - Logo](https://res.cloudinary.com/dw6igi7fc/image/upload/v1749530747/Banner_Web_Code_Academy_1_jap5iv.png)
 
 <p align="center">
-  Educación tecnológica gratuita, accesible y con impacto social.
+  **"Educación tecnológica gratuita para todos: forma, transforma e impulsa con Web Code Academy."**
 </p>
 <p align="center">
   <a href="https://github.com/WebCodeAcademy">
@@ -101,8 +101,6 @@ Buscamos empatía, liderazgo, compromiso y pasión por enseñar.
 📱 Redes sociales: @webcodeacademy0
 
 ---
-
-> **"Educación tecnológica gratuita para todos: forma, transforma e impulsa con Web Code Academy."**
 
 **Web Code Academy** es parte de [Empresas Salazar](https://github.com/EmpresasSalazar), una estructura empresarial con enfoque en educación, medio ambiente e innovación tecnológica.
 
