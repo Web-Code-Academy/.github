@@ -16,55 +16,94 @@
 
 </div>
 
+---
+
 # ¿Qué es Web Code Academy?
 
-[Web Code Academy](https://github.com/Web-Code-Academy) es una academia de tecnología y programación **100% gratuita**, creada para brindar acceso a educación de calidad a personas de todas las edades, géneros y nacionalidades. Nos enfocamos no solo en el desarrollo web, sino también en áreas clave como computación básica, ciberseguridad, herramientas digitales y más.
+[Web Code Academy](https://github.com/Web-Code-Academy) es una academia tecnológica fundada en 2022 por **Angel Isaí Moreno Salazar**, con la misión de **democratizar el acceso a la educación tecnológica** y cerrar la brecha digital. Nuestra filosofía se basa en la inclusión, accesibilidad y el acompañamiento humano.
 
-Impulsamos un aprendizaje práctico e inclusivo, alineado con los **Objetivos de Desarrollo Sostenible (ODS)** como la Educación de Calidad (ODS 4) y el Trabajo Decente (ODS 8).
+Ofrecemos **cursos gratuitos** de programación, computación, ciberseguridad y herramientas digitales, dirigidos a personas de todas las edades, géneros, nacionalidades y niveles de experiencia.
+
+Creemos firmemente que aprender a programar **no debe ser un privilegio**, sino un **derecho universal**.
+
+---
+
+## 🌱 Historia y Origen
+
+El proyecto nació como respuesta al analfabetismo digital que afecta a comunidades marginadas y rurales. Durante su paso por el CECyTEV 02 Papantla, Angel detectó una necesidad urgente: muchos estudiantes no tenían acceso a conocimientos básicos en tecnología. Desde entonces, Web Code Academy ha crecido como un espacio inclusivo que forma, transforma e impulsa vidas.
 
 ---
 
 ## 🚀 ¿Qué ofrecemos?
 
-- **Cursos gratuitos y accesibles**
-- **Material educativo de código abierto**
-- **Webinars y talleres virtuales**
-- **Proyectos con impacto social**
-- **Formación en habilidades digitales clave**
-
----
-
-## 🌍 Nuestro impacto
-
-Desde nuestro primer curso en 2024, hemos capacitado a estudiantes en desarrollo web, y actualmente participamos en iniciativas como el **PAEC (Programa Aula Escuela Comunidad)** y el **Demo Day del Tec de Monterrey**, con el objetivo de escalar nuestro alcance y seguir transformando vidas a través de la tecnología.
-
----
-
-## 🤝 ¿Cómo puedes ayudar?
-
-- Dale ⭐ a nuestros repos
-- Comparte nuestros proyectos
-- Únete como colaborador/a voluntario/a
-- Apoya nuestra causa compartiendo o donando en el futuro
+- ✅ **Cursos gratuitos** de programación, computación e IA
+- 🌐 **Webinars y talleres virtuales**
+- 📚 **Material didáctico desde cero**
+- 🤝 **Acompañamiento humano** y comunidad activa
+- 💡 **Proyectos reales y aplicables**
+- 🧠 **Formación en liderazgo, empatía y trabajo colaborativo**
 
 ---
 
 ## 📚 Proyectos destacados
 
-- Curso de Desarrollo Web  
-- Webinars de Introducción a la Computación  
-- Curso de Ciberseguridad Móvil  
-- Pensamiento Computacional sin Computadora  
+- Curso Piloto de Desarrollo Web (HTML, CSS, JS, Git, GitHub)
+- Webinars de Introducción a la Computación
+- Curso de Ciberseguridad Móvil
+- Pensamiento Computacional sin Computadora
+- Participación en PAEC y Demo Day del Tec de Monterrey
+
+---
+
+## 🌎 Propósito y Visión
+
+Web Code Academy busca convertirse en una **plataforma educativa internacional**, capaz de empoderar a miles de personas en tecnologías esenciales para el futuro. Aspiramos a impactar directamente en los **ODS 4 (Educación de calidad), ODS 8 (Trabajo decente)** y **ODS 10 (Reducción de desigualdades)**.
+
+No solo enseñamos código. Enseñamos a creer en uno mismo.
+
+---
+
+## 🧠 Más que una academia
+
+Web Code Academy es un **movimiento social**. Formamos personas con conciencia social, compromiso comunitario y pasión por el cambio. Creamos un entorno seguro para aprender sin miedo, compartir sin vergüenza y celebrar cada logro como una victoria colectiva.
+
+---
+
+## 🤝 ¿Cómo puedes ayudar?
+
+- ⭐ Dale una estrella a nuestros repos
+- 📣 Comparte este proyecto
+- 💬 Únete como colaborador/a voluntario/a
+- 💡 Sugiérenos ideas o mejoras
+- 🌟 Próximamente podrás donar o adquirir merchandising
+
+---
+
+## 👥 Nuestro equipo
+
+El equipo está conformado por personas apasionadas que asumen roles como:
+- Dirección Académica
+- Dirección de Operaciones
+- Dirección de Marketing
+- Dirección de Tecnología
+- Dirección de Información
+- Dirección de Sustentabilidad
+
+Buscamos empatía, liderazgo, compromiso y pasión por enseñar.
 
 ---
 
 ## 📫 Contacto
 
-¿Tienes dudas o quieres colaborar? Escríbenos por [email](mailto:contacto@www.webcodeacademy.com.mx) o síguenos en nuestras redes (próximamente).
+¿Tienes dudas o quieres colaborar?  
+📧 Escríbenos a: [contacto@www.webcodeacademy.com.mx](mailto:contacto@www.webcodeacademy.com.mx)  
+🌐 Sitio web: próximamente  
+📱 Redes sociales: en construcción
 
 ---
+
+> **"Educación tecnológica gratuita para todos: forma, transforma e impulsa con Web Code Academy."**
 
 **Web Code Academy** es parte de [Empresas Salazar](https://github.com/EmpresasSalazar), una estructura empresarial con enfoque en educación, medio ambiente e innovación tecnológica.
 
 > Porque la educación cambia vidas, y la tecnología abre caminos.
-
