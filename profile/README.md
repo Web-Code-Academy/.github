@@ -86,7 +86,6 @@ El equipo está conformado por personas apasionadas que asumen roles como:
 - Dirección de Marketing
 - Dirección de Tecnología
 - Dirección de Información
-- Dirección de Sustentabilidad
 
 Buscamos empatía, liderazgo, compromiso y pasión por enseñar.
 
