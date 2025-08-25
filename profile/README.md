@@ -22,9 +22,9 @@
 
 [Web Code Academy](https://github.com/Web-Code-Academy) es una academia tecnológica fundada en 2022 por **Angel Salazar**, con la misión de **democratizar el acceso a la educación tecnológica** y cerrar la brecha digital. Nuestra filosofía se basa en la inclusión, accesibilidad y el acompañamiento humano.
 
-Ofrecemos **cursos gratuitos** de programación, tecnología, computación, y herramientas digitales, dirigidos a personas de todas las edades, géneros, nacionalidades y niveles de experiencia.
+Ofrecemos **cursos gratuitos** de programación, idiomas, historia, literatura, dibujo, arte, entre otras áreas, dirigidos a personas de todas las edades, géneros, nacionalidades y niveles de experiencia.
 
-Creemos firmemente que aprender a programar **no debe ser un privilegio**, sino un **derecho universal**.
+Creemos firmemente que aprender tecnología **no debe ser un privilegio**, sino un **derecho universal**.
 
 ---
 
@@ -36,7 +36,7 @@ El proyecto nació como respuesta al analfabetismo digital que afecta a millones
 
 ## 🚀 ¿Qué ofrecemos?
 
-- ✅ **Cursos gratuitos** de programación, computación y tecnología
+- ✅ **Cursos gratuitos** de todas las áreas
 - 🌐 **Webinars y talleres virtuales**
 - 📚 **Material didáctico desde cero**
 - 🤝 **Acompañamiento humano** y comunidad activa
@@ -59,7 +59,7 @@ El proyecto nació como respuesta al analfabetismo digital que afecta a millones
 
 Web Code Academy busca convertirse en una **plataforma educativa internacional**, capaz de empoderar a miles de personas en tecnologías esenciales para el futuro. Aspiramos a impactar directamente en los **ODS 4 (Educación de calidad), ODS 8 (Trabajo decente)** y **ODS 10 (Reducción de desigualdades)**.
 
-No solo enseñamos código. Enseñamos a creer en uno mismo.
+No solo enseñamos. Impactamos vidas con el conocimiento.
 
 ---
 
