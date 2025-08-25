@@ -2,7 +2,7 @@
 
 # Web Code Academy
 
-![Web Code Academy - Logo](https://res.cloudinary.com/dw6igi7fc/image/upload/v1749530747/Banner_Web_Code_Academy_1_jap5iv.png)
+![Web Code Academy - Logo](https://i.ibb.co/4RbByFrL/Banner-Web-Code-Academy-1-jap5iv.png)
 
 <p align="center">
   <b><i>"Educación tecnológica gratuita para todos: forma, transforma e impulsa con Web Code Academy."</i></b>
